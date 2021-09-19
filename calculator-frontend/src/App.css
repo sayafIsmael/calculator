@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i");
+
+body {
+  font-family: Verdana, sans-serif;
+}
+
+.nav {
+  background-color: #c10708;
+  width: 100%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 100px;
+}
+
+.nav h1 {
+  color: white;
+  margin: auto;
+  font-size: 26px;
+}
+
+h6 {
+  margin-bottom: 15px;
+}
+
+button {
+  margin-top: 10px;
+  background-color: #c10708;
+  width: 100%;
+  color: white;
+  border: none;
+  padding: 7px 0px 7px 0px;
+}
+
+button:hover {
+  background-color: white;
+  border: 1px solid #c10708;
+  color: #c10708;
+}
+
+input {
+  width: 100%;
+  border-color: 1px solid gray;
+  margin-bottom: 10px;
+  padding: 7px 0px 7px 20px;
+  border: 1px solid gray;
+}
+
+hr {
+  margin-left: 4%;
+  margin-right: 4%;
+  color: #c10708;
+}
+
+.history{
+  margin-top: 50px;
+  overflow-x: scroll;
+}
+
+.history p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.result{
+  border: 1px solid #c10708;
+}
